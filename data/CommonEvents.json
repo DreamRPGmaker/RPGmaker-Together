@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["你打开了纸条"]},{"code":230,"indent":0,"parameters":[20]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["得到了  “给女儿的信”"]},{"code":126,"indent":0,"parameters":[7,0,0,1]},{"code":230,"indent":0,"parameters":[10]},{"code":0,"indent":0,"parameters":[]}],"name":"纸条信息-藏宝图1","switchId":2,"trigger":0},
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["你打开了纸条"]},{"code":230,"indent":0,"parameters":[20]},{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["得到了  “破旧的藏宝图1”"]},{"code":126,"indent":0,"parameters":[7,0,0,1]},{"code":230,"indent":0,"parameters":[10]},{"code":0,"indent":0,"parameters":[]}],"name":"纸条信息-藏宝图1","switchId":2,"trigger":0},
 {"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
