@@ -1,4 +1,8 @@
 @font-face {
     font-family: "GameFont";
-    src: url("mplus-1m-regular.ttf") format('truetype');
+    src: url('mplus-1m-regular.eot');
+    src: url('mplus-1m-regular.eot#iefix') format('embedded-opentype'),
+    url('mplus-1m-regular.woff') format('woff'),
+    url('mplus-1m-regular.ttf') format('truetype'),
+    url('mplus-1m-regular.svg#GameFont') format('svg');
 }
